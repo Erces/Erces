@@ -16,6 +16,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.defendtillsunshine.com/resume](https://www.defendtillsunshine.com/resume)
 
+- 📝 My Itch.io page [ITCH IO](https://euzeru.itch.io/)
+
 - 📝 I regularly write articles on [https://www.defendtillsunshine.com](https://www.defendtillsunshine.com)
 
 - 💬 Ask me about **Unity, 3D Graph, Game Mechanics and more**
