@@ -27,7 +27,7 @@
 <a href="https://twitter.com/euzeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="euzeru" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erce-uslu-085b131b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erce uslu" height="30" width="40" /></a>
 <a href="https://instagram.com/ratdadredemption" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratdadredemption" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/euzeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="euzeru" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCvo7Y3RSpVoI-digPk6ez6A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="euzeru" height="30" width="40" /></a>
 <a href="https://discord.gg/nAJy7a9nHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nAJy7a9nHw" height="30" width="40" /></a>
 </p>
 
