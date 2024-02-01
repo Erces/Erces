@@ -14,7 +14,7 @@
 
 - 📹 Watch my videos related on game development [Youtube](https://www.youtube.com/channel/UCvo7Y3RSpVoI-digPk6ez6A)
 
-- 👨‍💻 All of my projects are available at [https://www.defendtillsunshine.com/resume](https://www.defendtillsunshine.com/resume)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/Erces?tab=repositories)
 
 - 📝 My Itch.io page [ITCH IO](https://euzeru.itch.io/)
 
