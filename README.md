@@ -28,7 +28,7 @@
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Grid Movement/Attack](https://github.com/Erces/GameMechanic-GridMovement-Attack)
 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Grid Movement/Attack](https://github.com/Erces/GameMechanic-BasicCarMovement)
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Car Movement](https://github.com/Erces/GameMechanic-BasicCarMovement)
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Tower Defense Random Tile Generation](https://github.com/Erces/TowerDefenseWithRandomTileGeneration)
 
