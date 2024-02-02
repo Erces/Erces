@@ -32,7 +32,7 @@
 
 - [Flutter App](https://github.com/Erces/Teach-2-me)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"height="30" width="40" /></a> [Defend Till Sunshine](https://github.com/Erces/DefendTillSunshineDEMO)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /> [Defend Till Sunshine](https://github.com/Erces/DefendTillSunshineDEMO)
 
 - [GameJam-Hacettepe University](https://github.com/Erces/GameJam-HacettepeUniversity)
 
