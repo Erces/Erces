@@ -32,7 +32,7 @@
 
 - [Flutter App](https://github.com/Erces/Teach-2-me)
 
-<img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="40" /> [Defend Till Sunshine](https://github.com/Erces/DefendTillSunshineDEMO)
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" /> [Defend Till Sunshine](https://github.com/Erces/DefendTillSunshineDEMO)
 
 - [GameJam-Hacettepe University](https://github.com/Erces/GameJam-HacettepeUniversity)
 
