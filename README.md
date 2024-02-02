@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/Erces?tab=repositories)
 
-- 👨‍💻 Chronological order (NEWEST TO OLDEST):
+- 👨‍💻 Chronological order (**NEWEST TO OLDEST**):
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel)
 
