@@ -18,7 +18,7 @@
 
 - 👨‍💻 Chronological order (NEWEST TO OLDEST):
 
-- [Project Voxel](https://github.com/Erces/ProjectVoxel)
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel)
 
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" /> [Scions: Battle Eternal](https://github.com/Erces/Scions-Battle-Eternal)
 
