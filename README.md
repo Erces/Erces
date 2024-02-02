@@ -20,7 +20,7 @@
 
 - [Project Voxel](https://github.com/Erces/ProjectVoxel)
 
-- [Scions: Battle Eternal](https://github.com/Erces/Scions-Battle-Eternal)
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" />[Scions: Battle Eternal](https://github.com/Erces/Scions-Battle-Eternal)
 
 - [Terrarin Generator Perlin Noise](https://github.com/Erces/GameMechanic-TerrainGeneratorPerlinNoise)
 
