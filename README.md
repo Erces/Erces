@@ -30,7 +30,7 @@
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Tower Defense Random Tile Generation](https://github.com/Erces/TowerDefenseWithRandomTileGeneration)
 
-- [Flutter App](https://github.com/Erces/Teach-2-me)
+<img align="center" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" height="30" width="30" /> [Flutter App](https://github.com/Erces/Teach-2-me)
 
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" /> [Defend Till Sunshine](https://github.com/Erces/DefendTillSunshineDEMO)
 
