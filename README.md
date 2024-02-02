@@ -18,29 +18,29 @@
 
 - 👨‍💻 Chronological order (NEWEST TO OLDEST):
 
-- [HERE](https://github.com/Erces/ProjectVoxel)
+- [Project Voxel](https://github.com/Erces/ProjectVoxel)
 
-- [HERE](https://github.com/Erces/Scions-Battle-Eternal)
+- [Scions: Battle Eternal](https://github.com/Erces/Scions-Battle-Eternal)
 
-- [HERE](https://github.com/Erces/GameMechanic-TerrainGeneratorPerlinNoise)
+- [Terrarin Generator Perlin Noise](https://github.com/Erces/GameMechanic-TerrainGeneratorPerlinNoise)
 
-- [HERE](https://github.com/Erces/GameMechanic-CustomerWithDatabase)
+- [Customer Shop System](https://github.com/Erces/GameMechanic-CustomerWithDatabase)
 
-- [HERE](https://github.com/Erces/GameMechanic-GridMovement-Attack)
+- [Grid Movement/Attack](https://github.com/Erces/GameMechanic-GridMovement-Attack)
 
-- [HERE](https://github.com/Erces/TowerDefenseWithRandomTileGeneration)
+- [Tower Defense Random Tile Generation](https://github.com/Erces/TowerDefenseWithRandomTileGeneration)
 
-- [HERE](https://github.com/Erces/Teach-2-me)
+- [Flutter App](https://github.com/Erces/Teach-2-me)
 
-- [HERE](https://github.com/Erces/DefendTillSunshineDEMO)
+- [Defend Till Sunshine](https://github.com/Erces/DefendTillSunshineDEMO)
 
-- [HERE](https://github.com/Erces/GameJam-HacettepeUniversity)
+- [GameJam-Hacettepe University](https://github.com/Erces/GameJam-HacettepeUniversity)
 
-- [HERE](https://github.com/Erces/GameJam-Bogazici-University)
+- [GameJam-Bogazici University](https://github.com/Erces/GameJam-Bogazici-University)
 
-- [HERE](https://github.com/Erces/GameJam-OTTOGAMES)
+- [GameJam-Otto Games](https://github.com/Erces/GameJam-OTTOGAMES)
 
-- [HERE](https://github.com/Erces/University_Prolab)
+- [University Prolab](https://github.com/Erces/University_Prolab)
 
 - 📝 My Itch.io page [ITCH IO](https://euzeru.itch.io/)
 
