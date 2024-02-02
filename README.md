@@ -22,7 +22,7 @@
 
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Scions: Battle Eternal](https://github.com/Erces/Scions-Battle-Eternal)
 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Terrarin Generator Perlin Noise](https://github.com/Erces/GameMechanic-TerrainGeneratorPerlinNoise)
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Terrain Generator Perlin Noise](https://github.com/Erces/GameMechanic-TerrainGeneratorPerlinNoise)
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Customer Shop System](https://github.com/Erces/GameMechanic-CustomerWithDatabase)
 
