@@ -18,7 +18,7 @@
 
 - 👨‍💻 Chronological order (**NEWEST TO OLDEST**):
 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5696/5696245.png" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel) (2023-2024) 
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel) (2023-2024) 
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/10295/10295925.png" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProceduralAnimation) (2023-2024) 
 
