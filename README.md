@@ -50,7 +50,7 @@
 
 - 📝 My Itch.io page [ITCH IO](https://euzeru.itch.io/)
 
-- 📝 I regularly write articles on [https://www.defendtillsunshine.com](https://www.defendtillsunshine.com)
+- 📝 My website [https://www.defendtillsunshine.com](https://www.defendtillsunshine.com)
 
 - 💬 Ask me about **Unity, 3D Graph, Game Mechanics and more**
 
