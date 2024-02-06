@@ -26,7 +26,7 @@
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Terrain Generator Perlin Noise](https://github.com/Erces/GameMechanic-TerrainGeneratorPerlinNoise) (2023)
 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Customer Shop System](https://github.com/Erces/GameMechanic-CustomerWithDatabase) (2023)
+<img align="center" src="https://cdn-icons-png.freepik.com/512/9850/9850774.png" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Customer Shop System With Database](https://github.com/Erces/GameMechanic-CustomerWithDatabase) (2023)  
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Car Movement](https://github.com/Erces/GameMechanic-BasicCarMovement) (2023)
 
