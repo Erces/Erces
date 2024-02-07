@@ -20,6 +20,8 @@
 
 <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/336/432/original/steam-logo-steam-icon-free-free-vector.jpg" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel) (2023-2024) 
 
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Stencil Buffer Shader](https://github.com/Erces/Stencil-Shader) (2024) 
+
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5696/5696245.png" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Procedural Animation](https://github.com/Erces/ProceduralAnimation) (2024) 
 
 <img align="center" src="https://i.pngimg.me/thumb/f/720/m2H7i8m2N4N4d3b1.jpg" height="30" width="30" /> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" />  [GameNetworkingPlayground](https://github.com/Erces/GameNetworkPlayground) (2024)
