@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Project Voxel](https://github.com/Erces/ProjectVoxel)
 
-- 🌱 I’m currently learning **Computer Network**
+- 🌱 I’m currently learning **Computer Network** and **C++ Game Engine**
 
 - 🎮 I have worked on [Scions: Battle Eternal](https://store.steampowered.com/app/2198390/Scions_Battle_Eternal/)
 
