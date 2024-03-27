@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/euzeru" target="blank"><img src="https://img.shields.io/twitter/follow/euzeru?logo=twitter&style=for-the-badge" alt="euzeru" /></a> </p>
 
-- 🔭 I’m currently working on [Project Voxel](https://github.com/Erces/ProjectVoxel)
+- 🔭 I’m currently working on [Project Voxel](https://github.com/Erces/ProjectVoxel) and  [C++ Game Engine](https://github.com/Erces/C-GameEngine)
 
 - 🌱 I’m currently learning **Computer Network** and **C++ Game Engine**
 
@@ -17,6 +17,8 @@
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/Erces?tab=repositories)
 
 - 👨‍💻 Chronological order (**NEWEST TO OLDEST**):
+
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [C++ Game Engine/SFML](https://github.com/Erces/C-GameEngine) (2024) 
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel) (2023-2024) 
 
