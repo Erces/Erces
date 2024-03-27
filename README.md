@@ -18,7 +18,7 @@
 
 - 👨‍💻 Chronological order (**NEWEST TO OLDEST**):
 
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [C++ Game Engine/SFML](https://github.com/Erces/C-GameEngine) (2024) 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="30" width="30" /> [C++ Game Engine/SFML](https://github.com/Erces/C-GameEngine) (2024) 
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" height="30" width="30" /> [Project Voxel](https://github.com/Erces/ProjectVoxel) (2023-2024) 
 
