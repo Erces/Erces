@@ -18,7 +18,7 @@
 
 - 👨‍💻 Chronological order (**NEWEST TO OLDEST**):
 
-<img align="center" src="https://w7.pngwing.com/pngs/845/68/png-transparent-directx-direct3d-11-computer-icons-windows-7-direct-selling-software-logo-windows-32bit.png" height="30" width="30" /> [C++ DirectX](https://github.com/Erces/DirectX11) (2024) 
+<img align="center" src="https://static.wikia.nocookie.net/logopedia/images/6/68/DirectX_Cube.png/revision/latest?cb=20220516175319" height="30" width="30" /> [C++ DirectX](https://github.com/Erces/DirectX11) (2024) 
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="30" width="30" /> [C++ Game Engine/SFML](https://github.com/Erces/C-GameEngine) (2024) 
 
